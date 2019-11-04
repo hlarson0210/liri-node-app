@@ -43,9 +43,6 @@ This will return the following:
 <!-- Include screenshots, gifs or videos of the app functioning -->
 https://media.giphy.com/media/kGEHDRXwbRuClrBDyq/giphy.gif
 
-<!-- Contain a link to a deployed version of the app -->
-https://github.com/hlarson0210/liri-node-app
-
 <!-- Clearly list the technologies used in the app -->
 Liri-Bot uses several APIs to pull in information as well as node applications.
 
