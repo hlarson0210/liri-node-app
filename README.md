@@ -61,4 +61,4 @@ DotEnv - To store configuration in the environment separate from code
 
 <!-- State your role in the app development -->
 ## Role
-Role: Developer
+Developer
