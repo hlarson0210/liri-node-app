@@ -5,6 +5,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 <!-- Give start-to-finish instructions on how to run the app -->
+## How to use the app
 From the command line within terminal run the node command followed by the file name followed by the command[1, 2, 3, or 4] followed by the deisred search within that command. 
 
 Ex.1: node liri.js concert-this "Jonas Brothers"
@@ -41,9 +42,11 @@ This will return the following:
 
 
 <!-- Include screenshots, gifs or videos of the app functioning -->
+## Gif
 ![](https://media.giphy.com/media/kGEHDRXwbRuClrBDyq/giphy.gif)
 
 <!-- Clearly list the technologies used in the app -->
+## Technologies Used
 Liri-Bot uses several APIs to pull in information as well as node applications.
 
 APIs used:
@@ -57,4 +60,5 @@ DotEnv - To store configuration in the environment separate from code
 
 
 <!-- State your role in the app development -->
+## Role
 Role: Developer
